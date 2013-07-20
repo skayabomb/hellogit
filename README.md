@@ -9,3 +9,7 @@ cherio
 hello hello
 
 woot woot
+
+
+prompt("hello");
+
